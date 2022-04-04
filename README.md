@@ -6,10 +6,10 @@ go build -o bin/pos-web-main ./web/main.go
 
 ## Run
 ```sh
-go run main.go
+go run web/main.go
 ```
 
 ## Formatar
 ```sh
-go fmt main.go
+go fmt web/main.go
 ```
